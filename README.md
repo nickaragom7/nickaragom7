@@ -18,4 +18,4 @@ My [StackOverflow](https://stackoverflow.com/users/13444020/nicol%c3%a1s-g%c3%b3
 Lastly, you can contact via email nicolasgomezaragon@proton.me or phone +573028568823.
 
 # Job prospects
-Currently looking for a job on data ecosystems, particularly for Data Engineer, as well as Data Analyst, Backend Developer or Software Develoer.
+Currently looking for a job on data ecosystems, particularly for Data Engineer, as well as Data Analyst, Backend Developer or Software Developer.
