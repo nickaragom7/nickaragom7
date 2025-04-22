@@ -3,7 +3,7 @@
 I'm Nick — future Data Engineer. Currently working as technical support engineer for Lytx Inc., future mathematician and passionate about dogs, bikes and cooking! 
 
 ## 👨‍💻 Professional
-I am currently working to become a Data Engineer, learning by doing ETL projects in Python, as well, learning about data structures and algorithms in Java and preparing to take AWS Cloud Practicioner in December 2025.
+Currently developing DataEngineering ṕrojects, ETL in Python following an structured pipeline, as well, learning about data structures and algorithms in Java and preparing to take AWS Cloud Practicioner in December 2025.
 
 ## 📌 Let’s Connect
 
