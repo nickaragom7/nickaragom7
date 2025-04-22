@@ -1,6 +1,6 @@
 
 
-# 🚀 Data Engineering Roadmap by Nicolás Gómez Aragón
+# 🚀 Data Engineering Roadmap
 
 ## 🦖 About Me
 
