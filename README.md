@@ -1,10 +1,6 @@
-
-
-# 🚀 Data Engineering Roadmap
-
 ## 🦖 About Me
 
-I'm Nicolás Gómez Aragón — future Data Engineer. Currently working as technical support engineer for Lytx Inc., future mathematician and passionate about dogs, motorcycles and cooking! 
+I'm Nick — future Data Engineer. Currently working as technical support engineer for Lytx Inc., future mathematician and passionate about dogs, bikes and cooking! 
 
 ## 👨‍💻 Professional
 I am currently working to become a Data Engineer, learning by doing ETL projects in Python, as well, learning about data structures and algorithms in Java and preparing to take AWS Cloud Practicioner in December 2025.
@@ -22,4 +18,4 @@ My [StackOverflow](https://stackoverflow.com/users/13444020/nicol%c3%a1s-g%c3%b3
 Lastly, you can contact via email nicolasgomezaragon@proton.me or phone +573028568823.
 
 # Job prospects
-Currently looking for a job on data ecosystems, either for Data Engineer or  similar roles, as Data Analyst or even Backend Developer.
+Currently looking for a job on data ecosystems, particularly for Data Engineer, as well as Data Analyst, Backend Developer or Software Develoer.
