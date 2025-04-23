@@ -1,9 +1,17 @@
 ## 🦖 About Me
 
-I'm Nick — future Data Engineer. Currently working as technical support engineer for Lytx Inc., future mathematician and passionate about dogs, bikes and cooking! 
+I'm Nick — currently becoming a Data Engineer. Working as a technical support engineer for Lytx Inc. Future mathematician and passionate about dogs, bikes, and outdoors!
 
 ## 👨‍💻 Professional
-Currently developing DataEngineering ṕrojects, ETL in Python following an structured pipeline, as well, learning about data structures and algorithms in Java and preparing to take AWS Cloud Practicioner in December 2025.
+I have experience working with Python, SQL (MySQL) and NoSQL (MongoDB), a couple of years ago I developed some side projects which are pinned below, however right now, I'm focusing in becoming a Data Engineer, developing projects following the data pipeline:
+- Collection (Kafka)
+- Ingestion (NiFi)
+- Storage (SQL/NoSQL, also S3)
+- Computing (Spark)
+- Analysis (Python Frameworks)
+Finally, orchestration using Airflow.
+
+Learning on the side Scala, for data engineering, as well to learn OOP, FP and DataStructures and Algorithms.
 
 ## 📌 Let’s Connect
 
