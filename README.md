@@ -17,11 +17,13 @@ Learning on the side Scala, for data engineering, as well to learn OOP, FP and D
 
 You can visit my list of projects here: [Github](https://github.com/nickaragom7?tab=repositories).
 
-Advancements of my projects, can be found in [Notion](https://www.notion.so/1dc1232f65b180b68b12ccd0fa15abd8?v=1dc1232f65b1808b9006000c28001b21&pvs=4).
+Advancements of my projects, following Scrum, can be found in [Notion](https://www.notion.so/1dc1232f65b180b68b12ccd0fa15abd8?v=1dc1232f65b1808b9006000c28001b21&pvs=4).
 
 Professional profile: [LinkedIn](https://linkedin.com/in/nickaragom7).
 
 My [StackOverflow](https://stackoverflow.com/users/13444020/nicol%c3%a1s-g%c3%b3mez). 
+
+Blogpost for learning, insight and technical writing on [Medium](https://medium.com/@nicolasgomezaragon7).
 
 Reach me out: nicolasgomezaragon@proton.me, +573028568823.
 
