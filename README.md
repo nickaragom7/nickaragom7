@@ -3,15 +3,15 @@
 I'm Nick — becoming Data Engineer. Working as a technical support engineer for Lytx Inc.
 
 ## 👨‍💻 Professional
-Experience working with Python, SQL (MySQL), NoSQL (MongoDB), a couple of years ago I developed some side projects which are pinned below, however right now, I'm focusing in becoming a Data Engineer, developing projects following the data pipeline:
+Experience working with Python and Node.Js, SQL (MySQL), NoSQL (MongoDB), focusing in becoming a Data Engineer, developing projects following the data pipeline:
 - Collection (Kafka)
 - Ingestion (NiFi)
-- Storage (SQL/NoSQL, also S3)
+- Storage (SQL/NoSQL & S3)
 - Computing (Spark)
 - Analysis (Python Frameworks)
 Finally, orchestration using Airflow.
 
-Learning on the side Scala, for data engineering, as well to learn OOP, FP and DataStructures and Algorithms.
+Learning on the side Scala, for data engineering, as well to learning theoretical computer science.
 
 ## 📌 Let’s Connect
 
