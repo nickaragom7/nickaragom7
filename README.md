@@ -1,5 +1,5 @@
 ## 🦖 About Me
-Hi, I'm Nicolás Gómez — currently working as a Senior Salesforce HelpDesk Analyst at Holcim ADC. I'm actively building the foundation to transition into a Salesforce Integration Developer, blending cloud technologies, automation, and data engineering.
+I'm Nicolás Gómez — currently working as a Senior Salesforce HelpDesk Analyst at Holcim ADC. I'm actively building the foundation to transition into a Salesforce Integration Developer, blending cloud technologies, automation, and data engineering.
 
 ## 🚀 Job Interests
 I'm currently open to remote opportunities in:
@@ -7,14 +7,16 @@ I'm currently open to remote opportunities in:
 - Salesforce Development & Integration
 - Backend Development
 - Software Engineering
+- 
 Looking for roles where I can apply my skills in cloud integration, automation, and data workflows, while continuing to grow as a developer and contributor to the tech community.
 
 ## 👨‍💻 Professional Focus
 I'm focused on developing real-world skills in:
 
-Salesforce development with Apex and Flow, including external integrations.
-Cloud-native data pipelines, following best practices in automation and scalability.
-API-driven architectures that connect Salesforce with external platforms and services.
+- Salesforce development with Apex and Flow, including external integrations.
+- Cloud-native data pipelines, following best practices in automation and scalability.
+- API-driven architectures that connect Salesforce with external platforms and services.
+
 My goal is to design and implement integration pipelines that bridge Salesforce with cloud ecosystems (AWS, Azure, GCP), while documenting everything with clean code, diagrams, and tutorials.
 
 ## 🧠 Learning Goals
@@ -33,3 +35,4 @@ Some links of interest:
 - Technical writing: [Medium]() or [Dev.to]().
 - [StackOverflow](https://stackoverflow.com/users/13444020/nicol%c3%a1s-g%c3%b3mez). 
 
+Feel free to hang around, I'm always open to discuss about (almost) any topic! :)
